@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v1.9.1
-MAINTAINER Jason <piml.lui@gmail.com>
+FROM quay.io/calico/cni:v2.6.2
+MAINTAINER dongkevin <dongamp1990@gmail.com>
